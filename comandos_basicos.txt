@@ -3,3 +3,5 @@ git commit = salva o estado atual do branch
 git checkout- se move pelo repositorio
 git status - mostra o estado atual do repositorio
 git log - mostra os commits
+git push - Enviar alteraçoes para o remoto
+git pull 
