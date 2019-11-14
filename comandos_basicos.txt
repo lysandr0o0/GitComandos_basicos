@@ -1,0 +1,5 @@
+git init -  inicia um repositorio local
+git commit = salva o estado atual do branch
+git checkout- se move pelo repositorio
+git status - mostra o estado atual do repositorio
+git log - mostra os commits
